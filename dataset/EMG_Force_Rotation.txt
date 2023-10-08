@@ -44,7 +44,7 @@ Now, if you need to access the sixth   class from rotation  1, then that will be
 Now, if you need to access the seventh class from rotation  1, then that will be the data_EMG(:,:,55:63)
 
 Now, if you need to access the first   class from rotation  2, then that will be the data_EMG(:,:,64:72)
-Now, if you need to access the second  class from rotation  2, then that will be the data_EMG(:,:,73:81
+Now, if you need to access the second  class from rotation  2, then that will be the data_EMG(:,:,73:81)
 Now, if you need to access the third   class from rotation  2, then that will be the data_EMG(:,:,82:90)
 Now, if you need to access the fourth  class from rotation  2, then that will be the data_EMG(:,:,91:99)
 Now, if you need to access the fifth   class from rotation  2, then that will be the data_EMG(:,:,100:108)
